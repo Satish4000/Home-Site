@@ -1,0 +1,159 @@
+*
+{
+    font-family: montserrat;
+}
+
+body
+{
+    background: #f1fbff;
+}
+
+
+.carousel-caption
+{
+   bottom: 250px;
+   color: #EEF5FF;
+   font-size: 30px;
+   
+ 
+}
+.carousel-caption h5
+{
+font-size: 50px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: #F57D1F;
+
+}
+
+/* section333333333333333333333333333333333333333333 */
+
+
+
+.sai button
+{
+    background-color: #F57D1F;
+    border:2px solid black;
+    margin-left: 300px;
+}
+
+.sai button:hover
+{
+    background-color: transparent;
+    border: 2px solid gold;
+    color: red;
+}
+
+
+
+/* section4444444444444444444444444444444444444444 */
+
+
+.oho i
+{
+    font-size: 50px;
+    color: yellow;
+
+}
+.oho h5
+{
+    color: #F57D1F;
+}
+
+.oho a:hover
+{
+    transition: 1s;
+background-color: transparent;
+border: 2px solid gold;
+color: white;
+}
+
+
+
+
+
+
+
+/* section-66666666666666666666666666666666666666666666666666 */
+
+
+.ha a
+{
+    border: 2px solid ;
+
+}
+
+.ha 
+{
+    box-shadow: 3px 20px 10px 10px rgb(208, 202, 202);
+}
+
+
+.ha
+{
+    margin-left: 40px;
+}
+
+
+
+
+
+/* section8888888888888888888888888888888888888888888888888888888 */
+
+
+
+.bhaii img
+{
+    border-radius: 150px;
+    width: 50%;
+    margin-left: 60px;
+    
+}
+
+
+
+
+
+/* section10101010100000000000000000000000000000000000000000000000000 */
+
+
+.bu input
+{
+    border-radius: 5px;
+}
+
+
+.bu textarea
+{
+    border-radius: 5px;
+}
+.bu button
+{
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
